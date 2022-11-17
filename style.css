@@ -1,0 +1,86 @@
+ 
+body {
+    background-color: rgb(53, 148, 127);
+}
+
+h1 {
+    color: rgb(48, 48, 99);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    border-style: groove;
+    border-color: antiquewhite;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 10px; 10px; 10px; 10px;
+}
+
+.navbar {
+    float: center;
+    display: block;
+    height: 50px;
+    line-height: 30px;
+    border-style: dashed;
+    border-color: antiquewhite;
+    border-radius: 30px;
+    padding-bottom: 15px;
+    padding-top: -30;
+}
+
+.img {
+    border-radius: 1000px;
+}
+
+main {
+    background: linear-gradient( to bottom, rgb(61, 138, 167), rgb(70, 70, 200))
+}
+
+article {
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color:rgb(53, 148, 127) ;
+
+}
+
+.aboutme {
+    float: left;
+    padding-left: 0px;
+    padding-right: 175px;
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+
+.mywork {
+    float: left;
+    padding-left: 175px;
+    padding-right: 175px;
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+
+.contactme {
+    float: right;
+    padding-left: 175px;
+    padding-right: 30px;
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+
+.myresume {
+    float: right;
+    padding-left: 175px;
+    padding-right: 175px;
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
